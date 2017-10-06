@@ -2,8 +2,8 @@
 #include "main.h"
 
 int main() {
-	if (PI > 3) {
-		printf("I Like Pi\n");
+	if (PI > 2) {
+		printf("I Like PSL\n");
 	} else {
 		printf("No Pi For You\n");
 	}
